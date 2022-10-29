@@ -46,6 +46,6 @@ Takes one part of the code in RingedCircles and puts it into another loop which 
 
 To run these files go to SWAN and use 
 
-'git clone https://github.com/loischandler/data-and-code-assignment'
+`git clone https://github.com/loischandler/data-and-code-assignment`
 
 
