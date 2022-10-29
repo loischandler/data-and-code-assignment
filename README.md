@@ -40,3 +40,12 @@ Code that tries different things. Here, based on some other code in a different 
 #### generate100.ipynb
 
 Takes one part of the code in RingedCircles and puts it into another loop which means the art can automatically be generated many times.  This code also used the Image save function to create PNG files as outputs. 
+
+
+## Usage
+
+To run these files go to SWAN and use 
+
+'git clone https://github.com/loischandler/data-and-code-assignment'
+
+
